@@ -1,0 +1,21 @@
+{
+  "generator-ngx-rocket": {
+    "version": "6.1.0",
+    "props": {
+      "location": "path",
+      "target": ["web"],
+      "pwa": true,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": true,
+      "angulartics": false,
+      "tools": ["prettier", "hads", "compodoc"],
+      "utility": [],
+      "appName": "financiera_cliente",
+      "projectName": "financiera-cliente",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": []
+    }
+  }
+}
